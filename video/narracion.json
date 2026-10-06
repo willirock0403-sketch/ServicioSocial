@@ -1,0 +1,35 @@
+[
+  {"id": "portada", "frases": [
+    "Le damos la bienvenida a la guía paso a paso para registrarse al Servicio Social en la Facultad de Ingeniería Tampico.",
+    "Esta guía es exclusiva para quienes lo realizarán con la Maestra Paulina Fernández Izaguirre, en el Departamento de Coordinación de Exámenes Estandarizados."
+  ]},
+  {"id": "paso1", "frases": [
+    "Primero, lleve a las oficinas de Servicio Social la hoja con sus datos.",
+    "Descargue la plantilla desde el enlace que aparece en esta página, ábrala en Word y llene únicamente su información: los Datos del Prestatario.",
+    "Los datos de la dependencia y de la jefa inmediata ya vienen precargados."
+  ]},
+  {"id": "paso2", "frases": [
+    "Cuando sus datos ya estén capturados, ingrese al Sistema Integral de Servicio Social.",
+    "Escriba su matrícula en ambos campos, Matrícula y Contraseña, pero sin la letra «a» inicial: solo los números."
+  ]},
+  {"id": "paso3", "frases": [
+    "Al ingresar, el sistema le mostrará si ya está asignado a una dependencia.",
+    "Si es así, ya puede comenzar a llenar sus formatos. Ahí también verá el listado de informes, con sus fechas y su estatus."
+  ]},
+  {"id": "paso4", "frases": [
+    "Dentro de las fechas indicadas, llene estos cuatro formatos: Carta de Presentación, Carta de Aceptación, Alta de Servicio Social y Plan de Trabajo.",
+    "Apóyese en los ejemplos ya llenos de la carpeta de Drive: copie el contenido y cambie solo sus datos personales."
+  ]},
+  {"id": "paso5", "frases": [
+    "Descargue su Calendario de Informes con el botón verde del sistema para conocer sus fechas.",
+    "En él verá la fecha de activación, la fecha máxima de entrega y la fecha de desactivación de cada informe.",
+    {"texto": "Muy importante: si no cumple con el llenado o la entrega a tiempo, causará baja del sistema y no podrá reingresar hasta el siguiente periodo.", "aviso": true}
+  ]},
+  {"id": "paso6", "frases": [
+    "Conforme avance su servicio, llene cada informe en su fecha: los informes bimestrales A, B y C, y al final, el Informe Global."
+  ]},
+  {"id": "cierre", "frases": [
+    "Y listo. Con estos pasos completa su registro y seguimiento del Servicio Social.",
+    "Si tiene dudas, comuníquese con la Maestra Paulina Fernández Izaguirre. ¡Mucho éxito!"
+  ]}
+]
