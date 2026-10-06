@@ -9,7 +9,7 @@ Actúa como un director de video y motion designer profesional. Necesito un **vi
 
 ## PÚBLICO Y TONO
 - Dirigido a **estudiantes** que harán su servicio social **exclusivamente con la Mtra. Paulina Fernández Izaguirre**, en el **Departamento de Coordinación de Exámenes Estandarizados**. Déjalo claro en la intro.
-- Tono: cercano, claro y motivador, pero formal/institucional. Narración en **español (México)**, voz clara y bien pronunciada.
+- Tono: **formal e institucional, tratando al estudiante de USTED en todo momento** (nunca de "tú"), claro y respetuoso. Todos los textos en pantalla y la narración deben usar "usted": "descargue", "llene", "su matrícula", etc. Narración en **español (México)**, voz clara y bien pronunciada.
 
 ## FORMATO TÉCNICO
 - Relación de aspecto: **16:9 horizontal** (las capturas de pantalla son horizontales; en vertical se verían mal). Resolución 1080p.
@@ -58,35 +58,35 @@ Tipografía: **sans-serif limpia y legible** (tipo Montserrat, Poppins o similar
 
 **ESCENA 1 — Intro (0:00–0:10)**
 Visual: fondo geométrico (`03_...`) + `16_lockup_logos_uat_fit.png`. Aparece el título grande sobre banda roja: “MANUAL DE REGISTRO AL SERVICIO SOCIAL”. Subtítulo: “Facultad de Ingeniería Tampico”.
-Narración: “Bienvenido a la guía paso a paso para registrarte al Servicio Social en la Facultad de Ingeniería Tampico. Esta guía es exclusiva para quienes lo realizarán con la Maestra Paulina Fernández Izaguirre, en el Departamento de Coordinación de Exámenes Estandarizados.”
+Narración: “Le damos la bienvenida a la guía paso a paso para registrarse al Servicio Social en la Facultad de Ingeniería Tampico. Esta guía es exclusiva para quienes lo realizarán con la Maestra Paulina Fernández Izaguirre, en el Departamento de Coordinación de Exámenes Estandarizados.”
 
 **ESCENA 2 — Paso 1: Registro (0:10–0:28)**
 Visual: rótulo “PASO 1 — Registro” (banda roja) + `11_hoja_datos.png` con zoom suave.
-Narración: “Primero, lleva a las oficinas de Servicio Social la hoja con tus datos. Descarga la plantilla desde el link del manual, ábrela en Word y llena únicamente tu información: los datos del prestatario. Los datos de la dependencia ya vienen precargados.”
+Narración: “Primero, lleve a las oficinas de Servicio Social la hoja con sus datos. Descargue la plantilla desde el enlace del manual, ábrala en Word y llene únicamente su información: los datos del prestatario. Los datos de la dependencia ya vienen precargados.”
 
 **ESCENA 3 — Paso 2: Acceso al SISS (0:28–0:45)**
 Visual: “PASO 2 — Acceso al sistema” + `08_captura_login_siss.png`, con zoom a los campos de matrícula.
-Narración: “Cuando tus datos ya estén capturados, entra al Sistema Integral de Servicio Social. Escribe tu matrícula en ambos campos, matrícula y contraseña, pero SIN la letra ‘a’ inicial: solo los números. Por ejemplo, si tu matrícula es a-uno-dos-tres-cuatro-cinco-seis-siete-ocho-nueve-cero, escribe solo 1234567890.”
+Narración: “Cuando sus datos ya estén capturados, ingrese al Sistema Integral de Servicio Social. Escriba su matrícula en ambos campos, matrícula y contraseña, pero SIN la letra ‘a’ inicial: solo los números. Por ejemplo, si su matrícula es a-uno-dos-tres-cuatro-cinco-seis-siete-ocho-nueve-cero, escriba solo 1234567890.”
 
-**ESCENA 4 — Paso 3: Verifica tu asignación (0:45–0:55)**
-Visual: “PASO 3 — Verifica tu asignación” + `09_captura_panel_asignacion.png`.
-Narración: “Al entrar, el sistema te mostrará si ya estás asignado a una dependencia. Si es así, ya puedes comenzar a llenar tus formatos.”
+**ESCENA 4 — Paso 3: Verifique su asignación (0:45–0:55)**
+Visual: “PASO 3 — Verifique su asignación” + `09_captura_panel_asignacion.png`.
+Narración: “Al ingresar, el sistema le mostrará si ya está asignado a una dependencia. Si es así, ya puede comenzar a llenar sus formatos.”
 
 **ESCENA 5 — Paso 4: Llena los 4 formatos (0:55–1:15)**
-Visual: “PASO 4 — Llena los primeros 4 formatos”; muestra en secuencia rápida `12_`, `13_`, `14_`, `15_` (Carta de Presentación, Carta de Aceptación, Alta de Servicio Social y Plan de Trabajo). Lista en pantalla con los 4 nombres.
-Narración: “Dentro de las fechas indicadas, llena estos cuatro formatos: Carta de Presentación, Carta de Aceptación, Alta de Servicio Social y Plan de Trabajo. Apóyate en los ejemplos ya llenos que están en la carpeta del manual: copia el contenido y cambia solo tus datos personales.”
+Visual: “PASO 4 — Llene los primeros 4 formatos”; muestra en secuencia rápida `12_`, `13_`, `14_`, `15_` (Carta de Presentación, Carta de Aceptación, Alta de Servicio Social y Plan de Trabajo). Lista en pantalla con los 4 nombres.
+Narración: “Dentro de las fechas indicadas, llene estos cuatro formatos: Carta de Presentación, Carta de Aceptación, Alta de Servicio Social y Plan de Trabajo. Apóyese en los ejemplos ya llenos que están en la carpeta del manual: copie el contenido y cambie solo sus datos personales.”
 
 **ESCENA 6 — Paso 5: Calendario de informes (1:15–1:32)**
-Visual: “PASO 5 — Descarga tu calendario” + `10_calendario_informes.png`; resalta el botón verde y luego un recuadro de ADVERTENCIA rojo suave.
-Narración: “Descarga tu Calendario de Informes con el botón verde del sistema para conocer todas tus fechas. Muy importante: si no cumples con el llenado o la entrega a tiempo, serás dado de baja del sistema y no podrás reingresar hasta el siguiente periodo.”
+Visual: “PASO 5 — Descargue su calendario” + `10_calendario_informes.png`; resalta el botón verde y luego un recuadro de ADVERTENCIA rojo suave.
+Narración: “Descargue su Calendario de Informes con el botón verde del sistema para conocer todas sus fechas. Muy importante: si no cumple con el llenado o la entrega a tiempo, causará baja del sistema y no podrá reingresar hasta el siguiente periodo.”
 
 **ESCENA 7 — Paso 6: Informes (1:32–1:45)**
-Visual: “PASO 6 — Tus informes”; lista: Informe Bimestral A, B, C e Informe Global.
-Narración: “Conforme avance tu servicio, llena cada informe en su fecha: los informes bimestrales A, B y C, y al final, el Informe Global.”
+Visual: “PASO 6 — Sus informes”; lista: Informe Bimestral A, B, C e Informe Global.
+Narración: “Conforme avance su servicio, llene cada informe en su fecha: los informes bimestrales A, B y C, y al final, el Informe Global.”
 
 **ESCENA 8 — Cierre (1:45–1:55)**
-Visual: fondo geométrico + `16_lockup_logos_uat_fit.png`. Texto: “¡Listo! Completa tu Servicio Social sin contratiempos.”
-Narración: “Y listo. Con estos pasos completas tu registro y seguimiento del Servicio Social. ¡Mucho éxito!”
+Visual: fondo geométrico + `16_lockup_logos_uat_fit.png`. Texto: “¡Listo! Complete su Servicio Social sin contratiempos.”
+Narración: “Y listo. Con estos pasos completa su registro y seguimiento del Servicio Social. ¡Mucho éxito!”
 
 ## ENTREGABLE
 Un video 16:9, 1080p, con narración en español, subtítulos opcionales legibles, música de fondo suave e institucional (volumen bajo para no tapar la voz), respetando la paleta, el contraste y el estilo geométrico de la marca.
