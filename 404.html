@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<title>Registro al Servicio Social — esta guía cambió de dirección</title>
+<script>
+// Lleva cualquier enlace viejo (video, PDF, imagen) a la misma ruta dentro de la guía nueva.
+(function(){
+  var base = "/serviciosocial/".toLowerCase(), p = location.pathname, i = p.toLowerCase().indexOf(base);
+  var resto = i >= 0 ? p.slice(i + base.length) : "";
+  resto = resto.replace(/^video\//, "");
+  location.replace("https://examenes-estandarizados.github.io/serviciosocial/" + resto + location.search + location.hash);
+})();
+</script>
+</head>
+<body><p><a href="https://examenes-estandarizados.github.io/serviciosocial/">https://examenes-estandarizados.github.io/serviciosocial/</a></p></body>
+</html>
